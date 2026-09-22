@@ -1,0 +1,1 @@
+/workspace/lab_01/insert_data.sql

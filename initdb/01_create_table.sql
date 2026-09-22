@@ -1,0 +1,1 @@
+/workspace/lab_01/create_table.sql
