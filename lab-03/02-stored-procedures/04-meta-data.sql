@@ -41,4 +41,4 @@ $$;
 -- тест
 call pr_table_links('game');
 call pr_table_links('company');
-call pr_table_links('nope');  -- ошибка: таблица не найдена
+call pr_table_links('nope');

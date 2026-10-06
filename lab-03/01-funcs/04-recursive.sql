@@ -23,6 +23,9 @@ $$;
 
 
 -- тест
-select * from fn_tree_genre(47);      -- "fighting game": 4 уровня
-select * from fn_tree_genre(8);       -- жанр без поджанров: одна строка
-select * from fn_tree_genre(999999);  -- нет такого жанра: пусто
+-- "fighting game": 4 уровня
+select * from fn_tree_genre(47);
+-- жанр без поджанров: одна строка
+select * from fn_tree_genre(8);
+-- нет такого жанра: пусто
+select * from fn_tree_genre(999999);

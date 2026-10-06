@@ -12,4 +12,4 @@ $$;
 
 -- тест
 select * from fn_company_opened_after(2015);
-select count(*) from fn_company_opened_after(2100);  -- никого: 0
+select count(*) from fn_company_opened_after(2100);

@@ -53,7 +53,7 @@ $$;
 
 
 -- тест
-select * from fn_raspredelenie_genre();      -- топ-5 + "другие"
-select * from fn_raspredelenie_genre(1);     -- только самый популярный жанр
-select * from fn_raspredelenie_genre(1000);  -- больше, чем жанров: в "другие" попадут только игры без жанров
-select * from fn_raspredelenie_genre(0);     -- ошибка
+select * from fn_raspredelenie_genre();
+select * from fn_raspredelenie_genre(1);
+select * from fn_raspredelenie_genre(1000);
+select * from fn_raspredelenie_genre(0);

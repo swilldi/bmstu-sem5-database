@@ -57,6 +57,9 @@ call pr_transfer_games(294, 1415);
 
 rollback;
 
-call pr_transfer_games(9, 9);        -- ошибка: перенос в себя
-call pr_transfer_games(null, 9);     -- ошибка: NULL
-call pr_transfer_games(9, 999999);   -- ошибка: студия не найдена
+-- ошибка: перенос в себя
+call pr_transfer_games(9, 9);        
+-- ошибка: NULL
+call pr_transfer_games(null, 9);     
+-- ошибка: студия не найдена
+call pr_transfer_games(9, 999999);   
