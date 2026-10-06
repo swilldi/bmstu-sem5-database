@@ -1,1 +1,1 @@
-/workspace/lab_01/create_table.sql
+/workspace/lab-01/create_table.sql

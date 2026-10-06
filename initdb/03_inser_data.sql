@@ -1,1 +1,1 @@
-/workspace/lab_01/insert_data.sql
+/workspace/lab-01/insert_data.sql

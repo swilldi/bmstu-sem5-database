@@ -1,1 +1,1 @@
-/workspace/lab_01/define_restrictions.sql
+/workspace/lab-01/define_restrictions.sql
