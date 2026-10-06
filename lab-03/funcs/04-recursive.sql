@@ -1,3 +1,6 @@
+-- возвращает поддерево жанра (сам жанр и все поджанры на любой глубине)
+-- с уровнем вложенности и путём от корня
+
 create or replace function fn_tree_genre(p_genre_id int)
 returns table(genre_id int, name text, level int, path text)
 language sql
@@ -17,3 +20,9 @@ as $$
     select id, name, level, path
     from sub;
 $$;
+
+
+-- тест
+select * from fn_tree_genre(47);      -- "fighting game": 4 уровня
+select * from fn_tree_genre(8);       -- жанр без поджанров: одна строка
+select * from fn_tree_genre(999999);  -- нет такого жанра: пусто

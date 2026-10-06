@@ -1,3 +1,6 @@
+-- удаляет жанр вместе со всеми его поджанрами (рекурсивно),
+-- а игры из удаляемых жанров переносит в жанр p_new_genre
+
 create or replace procedure pr_delete_genre(p_genre int, p_new_genre int, p_level int default 0)
 language plpgsql
 as $$
@@ -49,3 +52,20 @@ begin
     raise notice '%', repeat('    ', p_level) || 'Удалён жанр "' || v_name || '", перенесено игр: ' || v_moved;
 end;
 $$;
+
+
+-- тест (в транзакции, чтобы не испортить данные)
+begin;
+
+select * from fn_tree_genre(47);  -- поддерево "fighting game"
+select count(*) from game_genre where genre_id = 2;
+
+call pr_delete_genre(47, 2);       -- удалить "fighting game", игры перенести в "adventure video game"
+
+select * from fn_tree_genre(47);  -- пусто
+select count(*) from game_genre where genre_id = 2;
+
+rollback;
+
+call pr_delete_genre(47, 47);       -- ошибка: новый жанр в удаляемом поддереве
+call pr_delete_genre(999999, 2);    -- ошибка: жанр не найден

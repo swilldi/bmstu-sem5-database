@@ -1,5 +1,5 @@
--- выводит компании которые основаны после переданного года
-create or replace function fn_compant_opened_after(p_year int)
+-- выводит компании, основанные в переданном году или позже
+create or replace function fn_company_opened_after(p_year int)
 returns table(name text, founded_year int)
 language sql
 stable
@@ -10,4 +10,6 @@ as $$
 	order by founded_year
 $$;
 
-select * from fn_compant_opened_after(2000)
+-- тест
+select * from fn_company_opened_after(2015);
+select count(*) from fn_company_opened_after(2100);  -- никого: 0

@@ -1,9 +1,12 @@
+-- для студии-разработчика выводит паузы между выходами её игр
+-- (по дате первого выхода) и находит самую долгую паузу
+
 create or replace procedure pr_studio_gaps(p_company int)
 language plpgsql
 as $$
 declare
     cur_game cursor (c_company int) for
-        select g.title as name, g.first_release_date as release_date
+        select distinct g.id, g.title as name, g.first_release_date as release_date
         from game_release gr
         join game g on gr.game_id = g.id
         where gr.company_id = c_company
@@ -58,3 +61,10 @@ begin
     end if;
 end;
 $$;
+
+
+-- тест
+call pr_studio_gaps(9);     -- Sega Sports R&D: 4 игры
+call pr_studio_gaps(545);   -- Traveller's Tales: одна игра на многих платформах не должна дублироваться
+call pr_studio_gaps(1489);  -- у студии меньше двух игр
+call pr_studio_gaps(999999); -- ошибка: студия не найдена

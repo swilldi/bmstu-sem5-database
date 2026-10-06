@@ -1,3 +1,6 @@
+-- выводит связи таблицы через внешние ключи (по системному каталогу pg_constraint):
+-- на какие таблицы она ссылается и какие таблицы ссылаются на неё
+
 create or replace procedure pr_table_links(p_table text)
 language plpgsql
 as $$
@@ -33,3 +36,9 @@ begin
     end loop;
 end;
 $$;
+
+
+-- тест
+call pr_table_links('game');
+call pr_table_links('company');
+call pr_table_links('nope');  -- ошибка: таблица не найдена
