@@ -1,2 +1,4 @@
 data-creators/.cache/
 docs/
+*.bkp
+.DS_Store
