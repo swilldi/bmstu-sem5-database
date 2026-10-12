@@ -1,4 +1,4 @@
-create or replace function avg_speed(p_driver_id int, p_race_date date) 
+create or replace function fn_avg_speed(p_driver_id int, p_race_date date) 
 returns numeric
 language sql
 stable
@@ -10,5 +10,5 @@ as $$
 $$;
 
 begin;
-select avg_speed(20, '1950-05-13');
+select fn_avg_speed(20, '1950-05-13');
 rollback;
