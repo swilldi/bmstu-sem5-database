@@ -1,0 +1,1105 @@
+track_id,name,country,length_km,track_type,opened_year
+1,Indianapolis Motor Speedway,United States,4.22,oval,1909
+2,AVUS,Germany,9.00,permanent,1921
+3,Autodromo Nazionale di Monza,Italy,5.79,permanent,1922
+4,Le Mans,France,5.67,permanent,1923
+5,Circuit de Spa-Francorchamps,Belgium,7.00,permanent,1924
+6,Nürburgring,Germany,25.38,permanent,1925
+7,Reims-Gueux,France,8.30,permanent,1926
+8,Circuit Bremgarten,Switzerland,7.28,permanent,1931
+9,Donington Park,United Kingdom,4.37,permanent,1931
+10,Hockenheimring,Germany,4.57,permanent,1932
+11,Montjuïc,Spain,3.79,street,1932
+12,Zeltweg,Austria,4.91,permanent,1937
+13,Autódromo José Carlos Pace,Brazil,4.31,permanent,1940
+14,Pescara Circuit,Italy,25.58,street,1943
+15,Sebring International Raceway,United States,3.37,permanent,1944
+16,Circuito da Boavista,Portugal,7.41,street,1947
+17,Silverstone Circuit,United Kingdom,5.89,permanent,1947
+18,Circuit Park Zandvoort,Netherlands,4.26,permanent,1948
+19,Circuit de Monaco,Monaco,3.34,street,1949
+20,Watkins Glen,United States,3.03,permanent,1949
+21,Autodromo Enzo e Dino Ferrari,Italy,4.91,permanent,1950
+22,Brands Hatch,United Kingdom,3.70,permanent,1950
+23,Rouen-Les-Essarts,France,3.64,street,1950
+24,Circuit de Pedralbes,Spain,6.32,street,1951
+25,Autódromo Juan y Oscar Gálvez,Argentina,4.03,permanent,1952
+26,Ain Diab,Morocco,7.62,street,1953
+27,Albert Park Grand Prix Circuit,Australia,5.28,street,1953
+28,Aintree,United Kingdom,4.83,permanent,1954
+29,Circuit Mont-Tremblant,Canada,4.26,permanent,1954
+30,Charade Circuit,France,8.05,permanent,1957
+31,Riverside International Raceway,United States,5.27,permanent,1957
+32,Monsanto Park Circuit,Portugal,5.44,street,1958
+33,Autódromo Hermanos Rodríguez,Mexico,4.30,permanent,1959
+34,Circuit de Nevers Magny-Cours,France,2.68,permanent,1959
+35,Mosport International Raceway,Canada,3.96,permanent,1960
+36,Nivelles-Baulers,Belgium,3.72,permanent,1960
+37,Kyalami,South Africa,5.50,permanent,1961
+38,Prince George Circuit,South Africa,3.92,permanent,1961
+39,Suzuka Circuit,Japan,5.81,permanent,1962
+40,Fuji Speedway,Japan,4.56,permanent,1963
+41,Zolder,Belgium,5.47,permanent,1963
+42,Jarama,Spain,4.25,permanent,1967
+43,Scandinavian Raceway,Sweden,4.02,permanent,1968
+44,Circuit Paul Ricard,France,5.84,permanent,1969
+45,Long Beach,United States,5.05,street,1969
+46,Red Bull Ring,Austria,4.32,permanent,1969
+47,Autódromo Internacional Nelson Piquet,Brazil,5.73,permanent,1971
+48,Fair Park,United States,4.49,street,1971
+49,Autódromo do Estoril,Portugal,4.36,permanent,1972
+50,Autodromo Internazionale del Mugello,Italy,5.25,permanent,1973
+51,Adelaide Street Circuit,Australia,3.78,street,1974
+52,Dijon-Prenois,France,3.80,permanent,1974
+53,Circuit Gilles Villeneuve,Canada,4.36,permanent,1978
+54,Baku City Circuit,Azerbaijan,6.00,street,1979
+55,Detroit Street Circuit,United States,4.02,street,1979
+56,Madring,Spain,3.95,street,1979
+57,Las Vegas Street Circuit,United States,4.93,street,1981
+58,Circuito de Jerez,Spain,3.43,permanent,1984
+59,Hungaroring,Hungary,4.38,permanent,1985
+60,Miami International Autodrome,United States,5.41,street,1987
+61,Okayama International Circuit,Japan,3.70,permanent,1988
+62,Circuit de Barcelona-Catalunya,Spain,4.67,permanent,1989
+63,Korean International Circuit,South Korea,4.79,permanent,1989
+64,Phoenix street circuit,United States,3.43,street,1989
+65,Sepang International Circuit,Malaysia,5.54,permanent,1997
+66,Valencia Street Circuit,Spain,5.47,street,1997
+67,Bahrain International Circuit,Bahrain,5.41,permanent,2002
+68,Lusail International Circuit,Qatar,5.40,permanent,2003
+69,Shanghai International Circuit,China,5.45,permanent,2003
+70,Istanbul Park,Turkey,5.34,permanent,2005
+71,Autódromo Internacional do Algarve,Portugal,4.65,permanent,2008
+72,Marina Bay Street Circuit,Singapore,2.19,street,2008
+73,Yas Marina Circuit,United Arab Emirates,5.55,permanent,2009
+74,Circuit of the Americas,United States,5.51,permanent,2010
+75,Buddh International Circuit,India,5.14,permanent,2011
+76,Jeddah Corniche Circuit,Saudi Arabia,6.17,street,2013
+77,Sochi Autodrom,Russia,5.85,permanent,2014
+78,Las Vegas Strip Street Circuit,United States,2.67,street,2015
+79,Snaefell Mountain Course,United Kingdom,5.07,street,1904
+80,Brooklands,United Kingdom,3.71,permanent,1906
+81,Tacoma Speedway,United States,3.22,oval,1914
+82,Des Moines Speedway,United States,1.00,oval,1915
+83,Clady Circuit,United Kingdom,5.43,street,1922
+84,Glostrupbanen,Denmark,4.38,permanent,1922
+85,Autodrome Tetamamar,Spain,2.00,permanent,1923
+86,Autodrome de Linas-Montlhéry,France,5.79,permanent,1924
+87,Penrith Speedway-Aerodrome,Australia,4.10,oval,1924
+88,Autódromo Parque de la Velocidad de San Jorge,Argentina,3.03,permanent,1925
+89,Autódromo Tacna,Peru,5.95,permanent,1925
+90,Circuit Riverside Speedway Ste-Croix,Canada,1.95,oval,1925
+91,Cornwall Motor Speedway,Canada,1.00,oval,1925
+92,Firebird Raceway,United States,3.31,permanent,1925
+93,Hawkeye Downs Speedway,United States,1.46,oval,1925
+94,Illinois State Fairgrounds Racetrack,United States,5.27,permanent,1925
+95,Lernerville Speedway,United States,1.46,oval,1925
+96,McCormick Field Raceway,United States,5.52,permanent,1925
+97,Primring,Russia,5.85,permanent,1925
+98,Riverside Park Speedway,United States,0.98,oval,1925
+99,Blue Circle Raceway,South Africa,6.05,permanent,1926
+100,Chimay Street Circuit,Belgium,3.50,street,1926
+101,Coronado Street Course,United States,3.87,street,1926
+102,Hidden Valley Raceway,Australia,3.86,permanent,1926
+103,Riverview Speedway,Australia,2.54,oval,1926
+104,Sirkuit Skyland,Indonesia,4.98,permanent,1926
+105,Tempelhof Airport Street Circuit,Germany,2.80,street,1926
+106,Tri-City Speedway,United States,1.50,oval,1926
+107,Woodbridge Speedway,United States,2.50,oval,1926
+108,Airborne Park Speedway,United States,2.55,oval,1927
+109,Autodrom Sedlčany,Czech Republic,5.58,permanent,1927
+110,Autódromo Chiapas,Mexico,4.77,permanent,1927
+111,Autódromo Eusebio Marcilla,Argentina,3.63,permanent,1927
+112,Beijing Olympic Green Circuit,China,4.05,street,1927
+113,Caesar's Palace Circuit,United States,4.36,street,1927
+114,Circuit International Automobile Moulay El Hassan,Morocco,4.29,street,1927
+115,Knoxville Raceway,United States,0.80,permanent,1927
+116,Maze Sea Circuit,Japan,2.82,permanent,1927
+117,NOLA Motorsports Park,United States,4.08,permanent,1927
+118,Orlando Moura International Autodrome,Brazil,4.45,permanent,1927
+119,Sachsenring,Germany,5.12,permanent,1927
+120,Shanghai Street Circuit,China,4.76,street,1927
+121,Speedway Miramichi,Canada,1.53,oval,1927
+122,Autódromo Internacional Virgílio Távora,Brazil,2.85,permanent,1928
+123,Comminges circuit,France,5.28,street,1928
+124,Longtan National Speedway,Taiwan,3.48,permanent,1928
+125,Lulsgate Aerodrome,United Kingdom,6.84,permanent,1928
+126,Sutherland Automotive Speedway,Canada,0.86,oval,1928
+127,Autódromo Cabo Negro,Chile,5.00,permanent,1929
+128,Autódromo La Guácima,Costa Rica,2.03,permanent,1929
+129,Autódromo Las Vizcachas,Chile,4.47,permanent,1929
+130,Circuito de Almería,Spain,4.48,permanent,1929
+131,Longridge circuit,United Kingdom,4.90,permanent,1929
+132,Pocono Raceway,United States,3.55,permanent,1929
+133,Streets of Vancouver,Canada,5.42,street,1929
+134,Euro-Ring,Hungary,4.41,permanent,1930
+135,Jennerstown Speedway,United States,0.83,oval,1930
+136,Kevin Harvick's Kern Raceway,United States,0.80,permanent,1930
+137,Lake Erie Speedway,United States,4.00,oval,1930
+138,Masaryk Circuit,Czech Republic,17.80,permanent,1930
+139,Perris Auto Speedway,United States,2.43,oval,1930
+140,Spreewaldring Training Center,Germany,3.90,permanent,1930
+141,Zürich Street Circuit,Switzerland,2.46,street,1930
+142,Autódromo Santiago Yaco Guarnieri,Argentina,2.76,permanent,1931
+143,Berlin Street Circuit,Germany,3.24,street,1931
+144,Bridgeport Speedway,United States,1.53,oval,1931
+145,Crimond Raceway,United Kingdom,5.50,permanent,1931
+146,Iinatti Motor Sports Centre,Finland,2.71,permanent,1931
+147,K.M.A. Speedway,Canada,1.02,oval,1931
+148,Kings Park Speedway,Canada,1.46,oval,1931
+149,Moisés Solana complex,Mexico,6.03,permanent,1931
+150,Mount Noro Speed Park,Japan,4.35,permanent,1931
+151,Opatija Circuit,Croatia,5.36,street,1931
+152,Selinsgrove Speedway,United States,2.43,oval,1931
+153,Sturup Raceway,Sweden,3.96,permanent,1931
+154,Sunset Speedway,Canada,1.52,oval,1931
+155,Cedar Lake Speedway,United States,1.46,oval,1932
+156,Circuit Park Kiriyanai,Japan,4.22,permanent,1932
+157,Circuit Sidi Daoui de Oued Zem,Morocco,4.62,permanent,1932
+158,Circuit de Gedinne,Belgium,2.96,street,1932
+159,Pyynikki Circuit,Finland,3.61,street,1932
+160,Ring Djursland,Denmark,4.54,permanent,1932
+161,Toronto Street Circuit,Canada,3.87,street,1932
+162,Alabama Motorsports Park,United States,4.56,permanent,1933
+163,Autodromo Internacional de Yahuarcocha,Ecuador,3.81,permanent,1933
+164,Circuit de Dakar Baobabs,Senegal,6.57,permanent,1933
+165,Kakucs Ring,Hungary,4.38,permanent,1933
+166,Old Dominion Speedway,United States,1.02,oval,1933
+167,Wiscasset Raceway,United States,5.88,permanent,1933
+168,Autodromo della Mellaha,Libya,5.54,permanent,1934
+169,Autódromo Internacional Potenza,Brazil,3.20,permanent,1934
+170,Autódromo Internacional Zilmar Beux - Cascavel/PR,Brazil,3.38,permanent,1934
+171,Autódromo Oscar Cabalén,Argentina,5.16,permanent,1934
+172,Circuito do Sol,Portugal,4.16,permanent,1934
+173,Edmonton International Speedway,Canada,1.46,oval,1934
+174,Owosso Speedway,United States,0.85,oval,1934
+175,Potrero de los Funes Circuit,Argentina,4.84,permanent,1934
+176,Raleigh Speedway,United States,0.86,oval,1934
+177,Wolf Lake Speedway,United States,1.52,oval,1934
+178,Autodromo di Morano sul Po,Italy,3.35,permanent,1935
+179,Autódromo Internacional Simón Bolívar,Venezuela,3.63,permanent,1935
+180,Dracon,Bulgaria,4.69,permanent,1935
+181,Levin Motor Racing Circuit,New Zealand,5.29,permanent,1935
+182,Montreal Street Circuit,Canada,5.39,street,1935
+183,Raceway Park,United States,4.53,permanent,1935
+184,Solitude Race Track,Germany,3.16,street,1935
+185,Asamadai Sport Land,Japan,5.46,permanent,1936
+186,Audru Ring,Estonia,5.39,permanent,1936
+187,Hong Kong Central Harbourfront Circuit,China,4.94,street,1936
+188,Kentucky Motor Speedway,United States,1.47,oval,1936
+189,Madras International Circuit,India,5.95,permanent,1936
+190,Ndola Motopark,Zambia,4.66,permanent,1936
+191,Norwood Arena Speedway,United States,2.04,oval,1936
+192,Riverside International Speedway,United States,1.50,oval,1936
+193,Seekonk Speedway,United States,0.86,oval,1936
+194,Ardmore Airport,New Zealand,3.04,permanent,1937
+195,Castelletto Circuit,Italy,1.90,permanent,1937
+196,Circuito Daniel Rivas,Spain,5.61,permanent,1937
+197,Permyjaya Race Track,Malaysia,6.47,permanent,1937
+198,Saint Helier Circuit,Jersey,2.17,street,1937
+199,Alexandra Park Street Circuit,South Africa,4.23,permanent,1938
+200,Ascot Park,United States,6.93,permanent,1938
+201,Cadwell Park,United Kingdom,5.55,permanent,1938
+202,Circuit de Haute Saintonge,France,5.08,permanent,1938
+203,Hampton Downs Motorsport Park,New Zealand,2.92,permanent,1938
+204,North Alabama Speedway,United States,3.98,oval,1938
+205,Peterborough Speedway,Canada,1.51,oval,1938
+206,Road Atlanta,United States,5.40,permanent,1938
+207,Roosevelt Raceway,United States,3.88,permanent,1938
+208,Wellsville Raceway,United States,4.15,permanent,1938
+209,Wigram Airfield Circuit,New Zealand,4.20,permanent,1938
+210,Lochgelly Raceway,United Kingdom,4.57,permanent,1939
+211,Madison Speedway,United States,2.04,oval,1939
+212,Pikes Peak International Raceway,United States,3.48,permanent,1939
+213,Toledo Speedway,United States,0.80,oval,1939
+214,Zhuhai International Circuit,China,4.60,permanent,1939
+215,Autodrome Saguenay,Canada,2.82,permanent,1940
+216,Baltimore Street Circuit,United States,5.15,street,1940
+217,Ebisu Circuit,Japan,3.72,permanent,1940
+218,Midvaal Raceway,South Africa,4.50,permanent,1940
+219,Slinger Speedway,United States,0.84,oval,1940
+220,Teretonga Park,New Zealand,4.77,permanent,1940
+221,Timaru International Motor Raceway,New Zealand,4.52,permanent,1940
+222,Zwartkops Raceway,South Africa,3.40,permanent,1940
+223,Autódromo Internacional de Tarumã,Brazil,3.37,permanent,1941
+224,Capital City Speedway,Canada,1.52,oval,1941
+225,Indianapolis Speedrome,United States,2.41,permanent,1941
+226,Rockford Speedway,United States,1.01,oval,1941
+227,Autódromo Parque General San Martín,Argentina,6.19,permanent,1942
+228,Azadi Automobile Circuit,Iran,5.38,permanent,1942
+229,Balatonring,Hungary,4.93,permanent,1942
+230,Dalsland Ring,Sweden,2.92,permanent,1942
+231,Guizhou Junchi International Circuit,China,5.07,permanent,1942
+232,Iowa Speedway,United States,2.40,oval,1942
+233,Motordrome Speedway,United States,0.97,oval,1942
+234,Petoskey Motor Speedway,United States,2.35,oval,1942
+235,Putrajaya Street Circuit,Malaysia,1.94,street,1942
+236,Speedway Park,United States,0.80,oval,1942
+237,St. Petersburg street circuit,United States,5.46,street,1942
+238,Suriname Motorsport Park,Suriname,4.17,permanent,1942
+239,Tor Poznań,Poland,5.32,permanent,1942
+240,Brooklyn Street Circuit,United States,3.10,street,1943
+241,Dallas Grand Prix Circuit,United States,3.90,street,1943
+242,Delaware International Speedway,United States,1.48,oval,1943
+243,Five Flags Speedway,United States,4.06,oval,1943
+244,Lakeview Speedway,United States,2.49,oval,1943
+245,NRING Circuit,Russia,2.59,permanent,1943
+246,Nyirád Racing Center,Hungary,5.72,permanent,1943
+247,Velopark,Brazil,3.33,permanent,1943
+248,Autódromo Ciudad de Nueve de Julio,Argentina,4.45,permanent,1944
+249,Lyngåsbanen,Norway,6.23,permanent,1944
+250,Nashville Superspeedway,United States,3.93,oval,1944
+251,Nasu Motor Sports Land,Japan,6.25,permanent,1944
+252,Buckower Dreieck,Germany,3.01,permanent,1945
+253,Credentia Arena,Sweden,3.90,permanent,1945
+254,DriveIt NQ,Australia,3.97,permanent,1945
+255,ICE Pragelato Circuit,Italy,3.67,permanent,1945
+256,Raceway Ter Apel,Netherlands,4.75,permanent,1945
+257,Tolbert Street Circuit,Netherlands,2.24,street,1945
+258,Autodrome Chaudière,Canada,4.45,permanent,1946
+259,Castle Combe Circuit,United Kingdom,3.12,permanent,1946
+260,Circuit Italia,Australia,3.34,permanent,1946
+261,Circuit de Bordeaux-Mérignac,France,4.95,permanent,1946
+262,Circuit de Mayenne,France,3.53,permanent,1946
+263,Circuit des Nations,Switzerland,6.33,street,1946
+264,Elko Speedway,United States,0.60,oval,1946
+265,Humberstone Speedway,Canada,2.54,oval,1946
+266,Surfers Paradise Street Circuit,Australia,3.95,street,1946
+267,Circuito Cittadino dell'EUR,Italy,3.04,street,1947
+268,Donnybrook Raceway,Zimbabwe,4.56,permanent,1947
+269,DuQuoin State Fairgrounds Racetrack,United States,4.17,permanent,1947
+270,Estevan Motor Speedway,Canada,2.01,oval,1947
+271,Höljesbanan,Sweden,5.65,permanent,1947
+272,Middle Georgia Raceway,United States,5.82,permanent,1947
+273,Nordring,Austria,4.31,permanent,1947
+274,North Wilkesboro Speedway,United States,1.01,oval,1947
+275,Ogilvie Raceway,United States,2.47,permanent,1947
+276,Olympic Park Speedway (Mildura),Australia,2.57,oval,1947
+277,Port Imperial Street Circuit,United States,4.18,permanent,1947
+278,Tierp Arena,Sweden,6.49,permanent,1947
+279,Circuit de Cadours,France,2.85,street,1948
+280,Circuito Palermo,Argentina,4.87,permanent,1948
+281,Circuito di Ospedaletti,Italy,4.68,street,1948
+282,Lihpao Racing Park,Taiwan,3.50,permanent,1948
+283,Chicago Motor Speedway,United States,0.87,oval,1949
+284,Circuit de Faleyras,France,2.74,permanent,1949
+285,Circuito Carlos Romero de Tolhuin,Argentina,2.82,permanent,1949
+286,Circuito del Garda,Italy,5.64,permanent,1949
+287,Karlskoga Motorstadion,Sweden,4.37,permanent,1949
+288,Kartarena Cheb,Czech Republic,6.67,permanent,1949
+289,Polideportivo Ciudad de Mercedes,Uruguay,3.84,permanent,1949
+290,Silesia Ring,Poland,5.35,permanent,1949
+291,Symmons Plains Raceway,Australia,3.44,permanent,1949
+292,Autódromo Internacional de Mato Grosso,Brazil,6.00,permanent,1950
+293,Bethel Motor Speedway,United States,2.45,oval,1950
+294,Biscayne Bay Street Circuit,United States,1.92,street,1950
+295,Circuito di Siracusa,Italy,5.50,permanent,1950
+296,Clark International Speedway,Philippines,6.45,permanent,1950
+297,Dayton Speedway,United States,1.48,oval,1950
+298,Dundrod Circuit,United Kingdom,5.23,street,1950
+299,Four Inch Course,Isle of Man,1.90,street,1950
+300,Jakarta International e-Prix Circuit,Indonesia,4.75,street,1950
+301,James McNeillie Circuit,Zimbabwe,5.81,permanent,1950
+302,Ningbo International Circuit,China,4.47,permanent,1950
+303,Reading Fairgrounds Speedway,United States,0.87,oval,1950
+304,Rennstrecke Dessau,Germany,2.88,permanent,1950
+305,Ulu Choh Dirt Park,Malaysia,5.18,permanent,1950
+306,Wanneroo Raceway,Australia,4.81,permanent,1950
+307,ACI Vallelunga Circuit,Italy,4.35,permanent,1951
+308,Autodromo di Pergusa,Italy,5.43,permanent,1951
+309,Autódromo Eduardo Prudêncio Cabrera,Uruguay,4.93,permanent,1951
+310,Autódromo Enrique Mosconi,Argentina,5.25,permanent,1951
+311,Autódromo Miguel E. Abed,Mexico,2.01,permanent,1951
+312,Borderline Speedway,Australia,2.06,oval,1951
+313,Circuit Mallorca Rennarena,Spain,4.07,permanent,1951
+314,Daytona Beach Road Course,United States,2.81,permanent,1951
+315,Eastern Creek Speedway,Australia,0.83,oval,1951
+316,Mount Clemens Race Track,United States,5.02,permanent,1951
+317,Snetterton Motor Racing Circuit,United Kingdom,5.49,permanent,1951
+318,Thomson Road Grand Prix circuit,Singapore,5.61,permanent,1951
+319,Vale Circuit,Australia,4.02,street,1951
+320,Atlantic City Speedway,United States,2.43,oval,1952
+321,Autobahnschere Chemnitz,Germany,1.86,street,1952
+322,Bernauer Schleife,Germany,5.93,permanent,1952
+323,Eagle Raceway,United States,2.12,permanent,1952
+324,Georgetown Speedway,United States,0.87,oval,1952
+325,Hednesford Hills Raceway,United Kingdom,3.48,permanent,1952
+326,Jukasa Motor Speedway,Canada,1.02,oval,1952
+327,Nebraska Raceway Park,United States,3.79,permanent,1952
+328,Phillip Island Grand Prix Circuit,Australia,4.28,permanent,1952
+329,Angell Park Speedway,United States,2.01,oval,1953
+330,Autódromo Sudamericano de Olavarría,Argentina,4.17,permanent,1953
+331,Brockville Ontario Speedway,Canada,1.49,oval,1953
+332,Holsteinring,Germany,4.62,permanent,1953
+333,Oulton Park,United Kingdom,6.29,permanent,1953
+334,Race City Motorsport Park,Canada,4.68,permanent,1953
+335,Tipperary Raceway,Ireland,4.10,permanent,1953
+336,Virginia International Raceway,United States,4.24,permanent,1953
+337,Wuhan Street Circuit,China,5.41,street,1953
+338,Arena Essex Raceway,United Kingdom,4.37,permanent,1954
+339,Arlington Street Circuit,United States,4.22,street,1954
+340,Autobahn Country Club,United States,4.12,permanent,1954
+341,Autodrom Moscow,Russia,4.21,permanent,1954
+342,Clypse Course,Isle of Man,2.97,street,1954
+343,Langley Speedway,United States,1.99,oval,1954
+344,Speed Park Track,Saudi Arabia,4.37,street,1954
+345,circuito automobilistico di Salerno,Italy,2.88,permanent,1954
+346,Autódromo Internacional de Guaporé,Brazil,4.15,permanent,1955
+347,Battersea Park Street Circuit,United Kingdom,1.88,street,1955
+348,Bautzener Autobahnring,Germany,5.48,permanent,1955
+349,Kawartha Speedway,Canada,0.86,oval,1955
+350,Moto Park Kyushu,Japan,3.95,permanent,1955
+351,Roskilde Ring,Denmark,4.68,permanent,1955
+352,TT Circuit Assen,Netherlands,4.22,permanent,1955
+353,YZ Circuit Mizunami,Japan,2.78,permanent,1955
+354,Autódromo Ciudad de Pigüé,Argentina,4.42,permanent,1956
+355,Autódromo Víctor Borrat Fabini,Uruguay,4.27,permanent,1956
+356,EcoCentro Expositor Querétaro,Mexico,5.39,permanent,1956
+357,Fairgrounds Speedway,United States,0.96,oval,1956
+358,Mallory Park,United Kingdom,3.78,permanent,1956
+359,Michigan International Speedway,United States,0.85,oval,1956
+360,San Antonio street circuit,United States,1.84,street,1956
+361,Sonoma Raceway,United States,3.20,permanent,1956
+362,Thunder Mountain Speedway,United States,0.84,oval,1956
+363,Winchester Speedway,United States,0.80,oval,1956
+364,Daytona International Speedway,United States,4.02,oval,1957
+365,Driftland,United Kingdom,3.18,permanent,1957
+366,Mendips Raceway,United Kingdom,3.38,permanent,1957
+367,Mesa Marin Raceway,United States,4.03,permanent,1957
+368,Shanghai Tianma Circuit,China,3.45,permanent,1957
+369,WeatherTech Raceway Laguna Seca,United States,5.30,permanent,1957
+370,Ippon Ikui Speedway,Japan,3.84,permanent,1958
+371,Kentucky Speedway,United States,2.44,oval,1958
+372,Portland International Raceway,United States,4.31,permanent,1958
+373,Autódromo Potosino,Mexico,0.80,permanent,1959
+374,Guadalope street circuit,Spain,1.95,street,1959
+375,Lismore Speedway,Australia,1.47,oval,1959
+376,Marshfield Motor Speedway,United States,1.51,oval,1959
+377,Myrtle Beach Speedway,United States,1.47,oval,1959
+378,Pirita-Kose-Kloostrimetsa Circuit,Estonia,2.87,street,1959
+379,Schleizer Dreieck,Germany,3.88,permanent,1959
+380,Southern National Motorsports Park,United States,4.96,permanent,1959
+381,São Paulo Street Circuit,Brazil,3.95,street,1959
+382,Autodromo dell'Umbria,Italy,3.95,permanent,1960
+383,Circuit Paul Armagnac,France,2.58,permanent,1960
+384,Circuit d'Albi,France,4.55,permanent,1960
+385,Ewald-Pauli-Ring,Germany,4.00,permanent,1960
+386,NEO Speed Park,Japan,4.49,permanent,1960
+387,Palo Marga International Raceway Park,Aruba,1.00,permanent,1960
+388,Tomin Motor Land,Japan,3.14,permanent,1960
+389,Warwick Farm Raceway,Australia,4.20,permanent,1960
+390,Wild Horse Pass Motorsports Park,United States,4.62,permanent,1960
+391,Autodrome Val-Bélair,Canada,6.29,permanent,1961
+392,Autódromo Ciudad de Oberá,Argentina,3.83,permanent,1961
+393,Burgas Street Circuit,Bulgaria,2.15,street,1961
+394,Eläintarha Circuit,Finland,4.27,street,1961
+395,Motoplex Speedway,Canada,0.84,oval,1961
+396,Texas World Speedway,United States,1.48,oval,1961
+397,All-American Speedway,United States,1.46,oval,1962
+398,Charlotte Speedway,United States,1.21,oval,1962
+399,Continental Divide Raceways,United States,3.15,permanent,1962
+400,Imatra Circuit,Finland,2.10,street,1962
+401,New Asheville Speedway,United States,2.03,oval,1962
+402,Oran Park Raceway,Australia,6.96,permanent,1962
+403,San Jose street circuit,United States,5.15,street,1962
+404,Battleground Speedway,United States,0.86,oval,1963
+405,Circuit des Ducs,France,5.72,permanent,1963
+406,Circuit du Mas du Clos,France,4.31,permanent,1963
+407,Circuito Guadix,Spain,5.82,permanent,1963
+408,Kansas Speedway,United States,2.40,oval,1963
+409,Nemuno Žiedas,Lithuania,2.48,permanent,1963
+410,New Thompson Speedways,United States,2.83,permanent,1963
+411,Road America,United States,4.29,permanent,1963
+412,Boone Speedway,United States,2.45,oval,1964
+413,Duivelsbergcircuit,Belgium,5.98,permanent,1964
+414,Helsinki Thunder,Finland,2.74,street,1964
+415,Ljungheden,Sweden,4.38,permanent,1964
+416,Perth Motorplex,Australia,4.19,permanent,1964
+417,Phoenix Raceway,United States,5.08,permanent,1964
+418,Rostocker Osthafenkurs,Germany,2.36,street,1964
+419,Vana-Võidu Circuit,Estonia,5.21,street,1964
+420,Waldparkring Mingolsheim,Germany,4.06,permanent,1964
+421,Western Speedway,Canada,1.50,oval,1964
+422,Bangsaen Street Circuit,Thailand,4.55,permanent,1965
+423,Cigelsky okruh,Slovakia,5.19,street,1965
+424,Circuit du Luc,France,4.96,permanent,1965
+425,Happy Land Circuit,Vietnam,3.63,permanent,1965
+426,Highroads Course,Isle of Man,3.78,street,1965
+427,Jacksonville Speedway,United States,4.06,oval,1965
+428,Mount Panorama Circuit,Australia,4.65,permanent,1965
+429,Nago Circuit,Japan,4.75,permanent,1965
+430,Potomac Speedway,United States,1.95,oval,1965
+431,Street circuit Denver,United States,5.30,street,1965
+432,Zhuzhou International Circuit,China,5.75,permanent,1965
+433,Adelaide International Raceway,Australia,3.07,permanent,1966
+434,Altamont Raceway Park,United States,4.06,permanent,1966
+435,Autódromo Luis Rubén Di Palma,Argentina,3.93,permanent,1966
+436,Bugatti Circuit,France,3.43,permanent,1966
+437,Hickory Motor Speedway,United States,3.91,oval,1966
+438,Houston Street Circuit,United States,2.33,street,1966
+439,Southern States Fairgrounds,United States,3.29,permanent,1966
+440,Tokushima Kartland,Japan,4.40,permanent,1966
+441,Ahvenisto Race Circuit,Finland,2.84,permanent,1967
+442,Autódromo Parque Ciudad,Argentina,3.44,permanent,1967
+443,Baypark Raceway,New Zealand,4.04,permanent,1967
+444,Brainerd International Raceway,United States,5.06,permanent,1967
+445,Chengdu Goldenport Circuit,China,3.63,permanent,1967
+446,Circuit ICAR,Canada,4.15,permanent,1967
+447,Evans Mills Raceway Park,United States,3.25,permanent,1967
+448,Falkenbergs Motorbana,Sweden,3.03,permanent,1967
+449,Golden Isles Speedway,United States,0.64,oval,1967
+450,Junction Motor Speedway,United States,4.12,oval,1967
+451,Varsselring,Netherlands,4.49,street,1967
+452,Autodrome Montmagny,Canada,4.78,permanent,1968
+453,Autódromo Monterrey,Mexico,4.06,permanent,1968
+454,Circuito Centro Dinámico Pegaso,Mexico,2.52,permanent,1968
+455,Diepholz Airfield Circuit,Germany,3.43,permanent,1968
+456,El Dorado Speedway,Mexico,1.01,permanent,1968
+457,Gnoo Blas circuit,Australia,5.11,street,1968
+458,Meridian Speedway,United States,0.40,oval,1968
+459,Mondello Park,Ireland,4.41,permanent,1968
+460,Salzburgring,Austria,3.43,permanent,1968
+461,Shah Alam Circuit,Malaysia,4.71,permanent,1968
+462,Watertown Speedway,United States,4.00,oval,1968
+463,Autódromo José Carlos Bassi,Argentina,5.26,permanent,1969
+464,Autódromo La Chutana,Peru,4.70,permanent,1969
+465,Irwindale Event Center,United States,0.80,permanent,1969
+466,Louisville Motor Speedway,United States,1.47,oval,1969
+467,Mantorp Park,Sweden,3.67,permanent,1969
+468,Oswego Speedway,United States,0.83,oval,1969
+469,Paeroa Street Circuit,New Zealand,3.82,street,1969
+470,Starlite Speedway,United States,1.51,oval,1969
+471,Umegashima Trial Site,Japan,5.75,permanent,1969
+472,Autoland Chiba,Japan,3.58,permanent,1970
+473,Autódromo Bernardo O'Higgins,Chile,1.64,permanent,1970
+474,Autódromo de Benguela,Angola,4.70,permanent,1970
+475,Biķernieki Complex Sports Base,Latvia,6.37,permanent,1970
+476,Colorado National Speedway,United States,1.46,oval,1970
+477,Hamburg Speedway,United States,0.87,oval,1970
+478,Jackson Speedway,United States,1.53,oval,1970
+479,Misano World Circuit Marco Simoncelli,Italy,4.06,permanent,1970
+480,Phakisa Freeway,South Africa,4.19,permanent,1970
+481,Reem International Circuit,Saudi Arabia,3.80,permanent,1970
+482,San Carlos Circuit,Venezuela,4.81,permanent,1970
+483,Three Sisters Race Circuit,United Kingdom,4.00,permanent,1970
+484,Anfa Circuit,Morocco,4.93,street,1971
+485,Batangas Racing Circuit,Philippines,4.51,permanent,1971
+486,Charlotte Motor Speedway,United States,1.49,oval,1971
+487,Eichenring,Germany,5.40,permanent,1971
+488,Green Valley Raceway,United States,3.29,permanent,1971
+489,Palm Beach International Raceway,United States,4.30,permanent,1971
+490,Tampa street circuit,United States,4.83,street,1971
+491,World Wide Technology Raceway at Gateway,United States,4.04,permanent,1971
+492,Autobahnspinne Dresden,Germany,4.00,permanent,1972
+493,Autodrom Jastrząb,Poland,3.49,permanent,1972
+494,Bunbury Speedway,Australia,1.01,oval,1972
+495,Cemetery Circuit,New Zealand,4.38,street,1972
+496,Dominion Raceway,United States,4.15,permanent,1972
+497,Douglas County Speedway,United States,2.40,oval,1972
+498,Fiorano Circuit,Italy,3.00,permanent,1972
+499,Hero Shinoi Circuit,Japan,3.69,permanent,1972
+500,Lorain County Speedway,United States,0.84,oval,1972
+501,Autódromo Huachalalume La Serena,Chile,3.73,permanent,1973
+502,Bristol Motor Speedway,United States,4.12,oval,1973
+503,Circuit de Croix-en-Ternois,France,5.34,permanent,1973
+504,Circuit de Porrentruy-Courtedoux,Switzerland,3.37,street,1973
+505,Davenport Speedway,United States,0.87,oval,1973
+506,Grenzlandring,Germany,3.23,permanent,1973
+507,Mandescircuit,Belgium,5.08,permanent,1973
+508,Manfeild Autocourse,New Zealand,3.55,permanent,1973
+509,Merrittville Speedway,Canada,4.00,oval,1973
+510,New Concord Speedway,United States,0.87,oval,1973
+511,Sandown Raceway,Australia,4.12,permanent,1973
+512,All-Tech Raceway,United States,0.80,permanent,1974
+513,Atlantic Motorsport Park,Canada,2.51,permanent,1974
+514,Autódromo Internacional Ayrton Senna,Brazil,4.66,permanent,1974
+515,Badlands Motor Speedway,United States,2.47,oval,1974
+516,Circuit de Calafat,Spain,3.25,permanent,1974
+517,Göteborg City Race,Sweden,5.67,permanent,1974
+518,Kirkistown Circuit,United Kingdom,3.73,permanent,1974
+519,Mid-Ohio Sports Car Course,United States,3.32,permanent,1974
+520,Portsmouth Raceway Park,United States,3.52,permanent,1974
+521,The Bend Motorsport Park,Australia,5.04,permanent,1974
+522,Zeist Circuit,Netherlands,4.97,permanent,1974
+523,Autodrom Chayka,Ukraine,2.96,permanent,1975
+524,Canandaigua Motorsports Park,United States,5.80,permanent,1975
+525,Circuit Goodyear,Luxembourg,6.06,permanent,1975
+526,Circuit of Folembray,France,4.62,permanent,1975
+527,Hořice v Podkrkonoší Circuit,Czech Republic,3.71,street,1975
+528,Langhorne Speedway,United States,1.61,oval,1975
+529,Mallala Motor Sport Park,Australia,4.74,permanent,1975
+530,Olean Speedway,United States,2.54,oval,1975
+531,Punta del Este Street Circuit,Uruguay,5.26,street,1975
+532,Røssvoll Motorstadion,Norway,3.75,permanent,1975
+533,Sportsland SUGO,Japan,2.98,permanent,1975
+534,Stardust International Raceway,United States,3.19,permanent,1975
+535,Tralee Speedway,Australia,1.46,oval,1975
+536,Autodromo di Lombardore,Italy,4.37,permanent,1976
+537,Avalon Raceway,Australia,3.95,permanent,1976
+538,Can-Am Speedway,United States,0.86,oval,1976
+539,Greymouth Street Circuit,New Zealand,2.49,street,1976
+540,Ingliston Racing Circuit,United Kingdom,4.95,permanent,1976
+541,Riverside Speedway,Canada,1.54,oval,1976
+542,Talladega Superspeedway,United States,0.84,oval,1976
+543,Tazio Nuvolari Circuit,Italy,2.69,permanent,1976
+544,WRT Ring Hollabrunn,Austria,4.56,permanent,1976
+545,Aix-les-Bains Circuit du Lac,France,2.85,street,1977
+546,Autodrom Sosnová,Czech Republic,3.91,permanent,1977
+547,Autódromo Mantarraya,Mexico,6.03,permanent,1977
+548,Autódromo Mar y Valle,Argentina,4.98,permanent,1977
+549,Autódromo Panamá,Panama,3.93,permanent,1977
+550,Caraway Speedway,United States,2.33,oval,1977
+551,Circuit de Pau-Ville,France,2.76,street,1977
+552,Goa Street Circuit,India,4.28,street,1977
+553,Missouri State Fair Speedway,United States,1.52,oval,1977
+554,Norway Speedway,United States,0.87,oval,1977
+555,Valvoline Raceway,Australia,3.77,permanent,1977
+556,Autodrom Most,Czech Republic,5.39,permanent,1978
+557,Automotodrom Grobnik,Croatia,4.17,permanent,1978
+558,Autódromo Ciudad de La Rioja,Argentina,4.25,permanent,1978
+559,Autódromo Internacional de Codegua,Chile,4.39,permanent,1978
+560,Circuit Paalgraven,Netherlands,4.34,street,1978
+561,Eddie Wright Raceway,United Kingdom,3.55,permanent,1978
+562,Everland Speedway,South Korea,5.43,permanent,1978
+563,Flemington Speedway,United States,1.53,oval,1978
+564,Freedom Factory,United States,3.41,permanent,1978
+565,Longford Circuit,Australia,3.50,permanent,1978
+566,Ordos International Circuit,China,5.46,permanent,1978
+567,Rustavi International Motorpark,Georgia,4.14,permanent,1978
+568,Savannah Speedway,United States,2.05,oval,1978
+569,Shannonville Motorsport Park,Canada,3.08,permanent,1978
+570,Wyoming County International Speedway,United States,1.94,oval,1978
+571,Ards Circuit,United Kingdom,3.16,street,1979
+572,Autódromo Internacional El Jabalí,El Salvador,3.25,permanent,1979
+573,Autódromo Juan Manuel Fangio,Argentina,6.22,permanent,1979
+574,Belvedere Airport Circuit,Zimbabwe,2.92,street,1979
+575,Carthage Street Circuit,Tunisia,12.70,street,1979
+576,Chuckwalla Valley Raceway,United States,4.52,permanent,1979
+577,Circuit de Lohéac,France,5.07,permanent,1979
+578,Croft Circuit,United Kingdom,2.56,permanent,1979
+579,Kaeng Krachan Circuit,Thailand,4.53,permanent,1979
+580,Lincoln Speedway,United States,0.86,oval,1979
+581,Sahoro Motorsport Land,Japan,4.56,permanent,1979
+582,V1 Auto World Tianjin,China,4.24,permanent,1979
+583,Zhuhai Street Circuit,China,5.01,street,1979
+584,Autódromo Geraldo Backer,Brazil,3.58,permanent,1980
+585,Circuit Jules Tacheny Mettet,Belgium,6.22,permanent,1980
+586,Dubai Autodrome,United Arab Emirates,2.94,permanent,1980
+587,Edmonton International Raceway,Canada,3.48,permanent,1980
+588,Salem Speedway,United States,0.89,oval,1980
+589,Thompson International Speedway,United States,1.01,oval,1980
+590,Thunder Road International SpeedBowl,United States,3.24,permanent,1980
+591,Autódromo Viedma,Argentina,3.70,permanent,1981
+592,Devil's Bowl Speedway,United States,1.00,oval,1981
+593,Eurocircuit,Netherlands,3.81,permanent,1981
+594,Fonda Speedway,United States,1.54,oval,1981
+595,Hanseatenring,Germany,2.53,street,1981
+596,Heidbergring,Germany,5.84,permanent,1981
+597,Muskingum County Speedway,United States,3.98,oval,1981
+598,Sauble Speedway,Canada,1.53,oval,1981
+599,Tokyo Street Circuit,Japan,3.80,street,1981
+600,Waterford Speedbowl,United States,6.15,permanent,1981
+601,WesBank Raceway,South Africa,5.58,permanent,1981
+602,Arctic Circle Raceway,Norway,4.39,permanent,1982
+603,Autodromo di Vairano - Automotive Safety Center,Italy,4.08,permanent,1982
+604,Circuito callejero de Ciudad del Cabo,South Africa,3.26,street,1982
+605,Concord Speedway,United States,2.36,oval,1982
+606,Daubornring,Germany,5.74,permanent,1982
+607,Dieppe circuit,France,4.55,street,1982
+608,Havasu 95 Speedway,United States,2.47,oval,1982
+609,Macon Speedway,United States,0.86,oval,1982
+610,Pukekohe Park,New Zealand,3.08,permanent,1982
+611,Ruapuna Motorsport Park,New Zealand,4.62,permanent,1982
+612,Santiago Street Circuit,Chile,3.37,street,1982
+613,Sharon Speedway,United States,1.52,oval,1982
+614,Shasta Speedway,United States,2.04,oval,1982
+615,Smoky Mountain Speedway,United States,2.55,oval,1982
+616,İzmit Körfez Circuit,Turkey,5.84,permanent,1982
+617,Brunots Island Race Track,United States,5.86,permanent,1983
+618,Circuito Rosendo Hernández,Argentina,5.82,permanent,1983
+619,Fontainebleau circuit,France,2.81,street,1983
+620,Kemora Circuit,Finland,2.72,permanent,1983
+621,Kuwait Motor Town,Kuwait,2.82,permanent,1983
+622,Las Vegas Motor Speedway,United States,2.36,oval,1983
+623,Narita Motor Land,Japan,5.18,permanent,1983
+624,Rockingham Speedway,United States,2.50,oval,1983
+625,Talladega Gran Prix Raceway,United States,5.61,permanent,1983
+626,Tony Rust Race Track,Namibia,2.60,permanent,1983
+627,Townsville Street Circuit,Australia,4.52,permanent,1983
+628,Winton Motor Raceway,Australia,4.47,permanent,1983
+629,Autodrom Môlča,Slovakia,5.01,permanent,1984
+630,Circuito Grandvalira Andorra,Andorra,0.94,permanent,1984
+631,Flatenbanan,Sweden,3.49,permanent,1984
+632,High Point Raceway,United States,3.95,permanent,1984
+633,Meadowdale International Raceway,United States,5.10,permanent,1984
+634,Piedmont Interstate Fairgrounds,United States,3.33,permanent,1984
+635,Ransomville Speedway,United States,3.99,oval,1984
+636,Sandusky Speedway,United States,1.54,oval,1984
+637,Star Speedway,United States,1.49,oval,1984
+638,Bira Circuit,Thailand,5.16,permanent,1985
+639,Charlotte County Motorsports Park,United States,5.28,permanent,1985
+640,Gillman Speedway,Australia,3.96,oval,1985
+641,Gotland Ring,Sweden,4.73,permanent,1985
+642,Johor Circuit,Malaysia,4.57,permanent,1985
+643,Montichiari Circuit,Italy,17.30,street,1985
+644,Newcastle Street Circuit,Australia,4.81,street,1985
+645,Raceway Venray,Netherlands,0.88,permanent,1985
+646,Red Star Raceway,South Africa,4.38,permanent,1985
+647,Aeginio Circuit,Greece,4.46,permanent,1986
+648,Autódromo de Tocancipá,Colombia,2.45,permanent,1986
+649,Bern Street Circuit,Switzerland,3.36,street,1986
+650,Calder Park Raceway,Australia,5.09,permanent,1986
+651,Circuito Lasarte,Spain,17.32,street,1986
+652,Circuito Urbano de La Bañeza,Spain,2.41,street,1986
+653,Kartodrom Zmeinka,Russia,4.20,permanent,1986
+654,Mega Space,Brazil,4.01,permanent,1986
+655,Memphis-Arkansas Speedway,United States,1.54,oval,1986
+656,Sidewinders Speedway,Australia,0.87,oval,1986
+657,Sirkuit Puncak Mario Rappang,Indonesia,4.32,permanent,1986
+658,Speedway Center Mureck,Austria,4.36,permanent,1986
+659,Willow Springs International Motorsports Park,United States,6.24,permanent,1986
+660,Zhejiang International Circuit,China,3.34,permanent,1986
+661,Auto Sportsland Sunagawa,Japan,4.30,permanent,1987
+662,Autódromo Gustavo Felo Rivera,Chile,4.60,permanent,1987
+663,Circuito dos Cristais,Brazil,3.54,permanent,1987
+664,Cleveland circuit,United States,3.83,street,1987
+665,Fremont Speedway,United States,1.53,oval,1987
+666,Krakonošův okruh,Czech Republic,3.49,permanent,1987
+667,Lånkebanen,Norway,3.19,permanent,1987
+668,Mercer Raceway Park,United States,4.26,permanent,1987
+669,Motopark Raceway,Finland,3.52,permanent,1987
+670,Scotia Speedworld,Canada,4.11,permanent,1987
+671,The Triangle,United Kingdom,3.47,street,1987
+672,Thompson Raceway,United States,2.28,permanent,1987
+673,Autódromo Internacional de Turagua,Venezuela,3.60,permanent,1988
+674,Circuit van Tubbergen,Netherlands,2.44,street,1988
+675,Goldenport Park Circuit,China,4.46,permanent,1988
+676,Lawrence Allen Circuit,Zambia,4.73,permanent,1988
+677,Marchbanks Speedway,United States,2.21,oval,1988
+678,Milwaukee Mile,United States,3.15,permanent,1988
+679,Monadnock Speedway,United States,1.47,oval,1988
+680,Motodrom Gelsenkirchen,Germany,3.92,permanent,1988
+681,New Hampshire Motor Speedway,United States,0.84,oval,1988
+682,Odenwaldring,Germany,2.40,street,1988
+683,Pittsburgh International Race Complex,United States,4.86,permanent,1988
+684,Riverhead Raceway,United States,3.20,permanent,1988
+685,Rudskogen,Norway,3.25,permanent,1988
+686,Sunset Speedway,United States,1.48,oval,1988
+687,Autodromo del Levante,Italy,4.43,permanent,1989
+688,Belle Isle circuit,United States,1.90,street,1989
+689,Botniaring Racing Circuit,Finland,4.01,permanent,1989
+690,"Brooklands motor racing circuit, remains of the pre-World War II aerodrome, World War II Bofors tower and shelters, and the Brooklands memorial",United Kingdom,3.60,permanent,1989
+691,California State Fairgrounds Race Track,United States,4.63,permanent,1989
+692,Chicago Street Course,United States,3.91,street,1989
+693,Circuit de Kerlabo,France,5.07,permanent,1989
+694,Circuit de La Châtre,France,4.59,permanent,1989
+695,Claremont Speedway,Australia,0.84,oval,1989
+696,Kingsport Speedway,United States,1.50,oval,1989
+697,Knockhill Racing Circuit,United Kingdom,5.08,permanent,1989
+698,Pembrey Circuit,United Kingdom,4.03,permanent,1989
+699,Riyadh Street Circuit,Saudi Arabia,3.45,street,1989
+700,Sydney Motorsport Park,Australia,5.04,permanent,1989
+701,Varney International Speedway,Canada,0.84,oval,1989
+702,Wachauring,Austria,3.52,permanent,1989
+703,Wilmot Raceway,United States,4.76,permanent,1989
+704,Autódromo Jorge Ángel Pena,Argentina,5.41,permanent,1990
+705,Circuit Pau-Arnos,France,6.55,permanent,1990
+706,Circuito de Albacete,Spain,4.90,permanent,1990
+707,Columbus Motor Speedway,United States,1.96,oval,1990
+708,I-70 Speedway,United States,0.87,oval,1990
+709,Ibsley Circuit,United Kingdom,2.68,permanent,1990
+710,Morgan Park Raceway,Australia,6.74,permanent,1990
+711,Pista Dolna Mitropoliya,Bulgaria,2.69,permanent,1990
+712,Queensland Raceway,Australia,4.94,permanent,1990
+713,Adirondack International Speedway,United States,2.01,oval,1991
+714,Augusta International Raceway,United States,5.23,permanent,1991
+715,BMW autodrome de Miramas,France,5.05,permanent,1991
+716,Breedon Everard Raceway,Zimbabwe,5.33,permanent,1991
+717,Circuit de Lédenon,France,5.10,permanent,1991
+718,Circuit de Meyrin,Switzerland,3.93,permanent,1991
+719,Greenwood Roadway,United States,5.02,permanent,1991
+720,Hamilton Street Circuit,New Zealand,4.27,street,1991
+721,Hokkaido Speed Park,Japan,5.58,permanent,1991
+722,SPA Naoiri,Japan,4.06,permanent,1991
+723,Thailand Circuit,Thailand,3.05,permanent,1991
+724,Aomori Speed Park,Japan,3.75,permanent,1992
+725,Autodrome Drummond,Canada,4.80,permanent,1992
+726,Autodromo Riccardo Paletti,Italy,5.10,permanent,1992
+727,Autódromo Francisco Villa,Mexico,3.60,permanent,1992
+728,Beltsville Speedway,United States,1.48,oval,1992
+729,Bihoku Highland Circuit,Japan,5.05,permanent,1992
+730,Circuit de Lyon-Parilly,France,7.29,permanent,1992
+731,Circuit du Val de Vienne,France,3.96,permanent,1992
+732,Davidstow Circuit,United Kingdom,5.09,permanent,1992
+733,Ennstalring,Austria,3.15,street,1992
+734,Frohburger Dreieck,Germany,3.71,permanent,1992
+735,New Egypt Speedway,United States,2.38,oval,1992
+736,Orange Show Speedway,United States,3.90,oval,1992
+737,Sentul International Circuit,Indonesia,3.96,permanent,1992
+738,Southern Oregon Speedway,United States,1.53,oval,1992
+739,Arena Avesta,Sweden,5.01,permanent,1993
+740,Bilster Berg,Germany,4.73,permanent,1993
+741,Bonneville Speedway,United States,1.53,oval,1993
+742,Bronson Speedway,United States,2.47,oval,1993
+743,Circuit 9,Haiti,5.50,permanent,1993
+744,Circuit des Invalides,France,1.93,street,1993
+745,Darlington Raceway,United States,3.69,permanent,1993
+746,Hallett Motor Racing Circuit,United States,3.49,permanent,1993
+747,Homestead-Miami Speedway,United States,2.41,oval,1993
+748,Lippo Village International Formula Circuit,Indonesia,5.33,permanent,1993
+749,Markham Street Circuit,Canada,4.86,street,1993
+750,Ruglandsbanen,Norway,5.14,permanent,1993
+751,Stafford Motor Speedway,United States,3.88,oval,1993
+752,Tokachi International Speedway,Japan,3.39,permanent,1993
+753,Travering,Germany,5.77,permanent,1993
+754,Autódromo de Luanda,Angola,4.05,permanent,1994
+755,Barber Motorsports Park,United States,4.68,permanent,1994
+756,Circuito de Cartagena,Spain,4.99,permanent,1994
+757,Lucas Oil Indianapolis Raceway Park,United States,2.58,permanent,1994
+758,Madison International Speedway,United States,0.80,oval,1994
+759,McNamara Park,Australia,5.03,permanent,1994
+760,Ontario Motor Speedway,United States,5.14,oval,1994
+761,Subic International Raceway,Philippines,5.41,permanent,1994
+762,Autódromo Ciudad de Mar del Plata,Argentina,4.70,permanent,1995
+763,Autódromo Eduardo Copello,Argentina,3.84,permanent,1995
+764,Chemung Speedrome,United States,2.40,permanent,1995
+765,Circuito de Guadarrama,Spain,3.27,street,1995
+766,Flat Rock Speedway,United States,1.48,oval,1995
+767,Motorsport Arena Oschersleben,Germany,2.85,permanent,1995
+768,Richmond Raceway,United States,3.07,permanent,1995
+769,Surfers Paradise International Raceway,Australia,3.88,permanent,1995
+770,Trenton Speedway,United States,1.46,oval,1995
+771,Walt Disney World Speedway,United States,0.84,oval,1995
+772,Wellington 500,New Zealand,2.90,street,1995
+773,Ascari Race Resort,Spain,4.12,permanent,1996
+774,Autodrome St-Félicien,Canada,4.07,permanent,1996
+775,Autódromo Ciudad de Rafaela,Argentina,4.16,permanent,1996
+776,Chicagoland Speedway,United States,3.93,oval,1996
+777,Dixie Speedway,United States,0.99,oval,1996
+778,Grand Bend Motorplex,Canada,5.49,permanent,1996
+779,Highlands Motorsport Park,New Zealand,4.85,permanent,1996
+780,Motorland Tachikawa,Japan,5.71,permanent,1996
+781,Motorsport Raceway Evbuobanosa,Nigeria,5.11,permanent,1996
+782,Orlando Speed World Dragway,United States,2.79,street,1996
+783,Rocky Top Raceway,United States,5.82,permanent,1996
+784,Vilkyciai Circuit,Lithuania,4.56,permanent,1996
+785,Auto Club Speedway,United States,0.83,oval,1997
+786,Circuito Vasco Sameiro,Portugal,5.35,permanent,1997
+787,Circuíto Choqueiro,Spain,2.65,permanent,1997
+788,Dog Track Speedway,United States,3.96,oval,1997
+789,Franklin County Speedway,United States,1.95,oval,1997
+790,Greenville-Pickens Speedway,United States,1.01,oval,1997
+791,Lake Geneva Raceway,United States,3.63,permanent,1997
+792,Mobara Twin Circuit,Japan,4.16,permanent,1997
+793,Mobility Resort Motegi,Japan,5.10,permanent,1997
+794,New Jersey Motorsports Park,United States,4.56,permanent,1997
+795,Santa Maria Speedway,United States,0.86,oval,1997
+796,Sendai Hi-Land Raceway,Japan,5.18,permanent,1997
+797,Texas Motor Speedway,United States,0.84,oval,1997
+798,Top Gear test track,United Kingdom,2.82,permanent,1997
+799,Volunteer Speedway,United States,1.51,oval,1997
+800,İzmir Park Racing Circuit,Turkey,2.19,permanent,1997
+801,Autódromo Rosamonte,Argentina,4.46,permanent,1998
+802,Circuit Ricardo Tormo,Spain,4.05,permanent,1998
+803,EuroSpeedway Lausitz,Germany,4.46,permanent,1998
+804,Glossocircuit,Belgium,4.43,permanent,1998
+805,Goodwood Circuit,United Kingdom,4.59,permanent,1998
+806,Guia Circuit,China,4.10,street,1998
+807,Hachinohe Circuit Park,Japan,5.65,permanent,1998
+808,Linnaring,Estonia,3.16,street,1998
+809,Long Beach Street Circuit,United States,4.54,street,1998
+810,Magnolia Circuit,Poland,3.18,street,1998
+811,Mikawa Sports Land,Japan,5.20,permanent,1998
+812,Serres Racing Circuit,Greece,3.19,permanent,1998
+813,Tucson Speedway,United States,1.00,oval,1998
+814,Anderson Speedway,United States,0.85,oval,1999
+815,Autodromo di Mores,Italy,4.90,permanent,1999
+816,Calabogie Motorsports Park,Canada,4.04,permanent,1999
+817,Delaware Speedway,Canada,2.49,oval,1999
+818,Evergreen Speedway,United States,1.01,oval,1999
+819,Killarney Motor Racing Complex,South Africa,5.81,permanent,1999
+820,Las Vegas Park Speedway,United States,1.01,oval,1999
+821,Lavonia Speedway,United States,3.94,oval,1999
+822,Lebanon I-44 Speedway,United States,0.85,oval,1999
+823,Mansfield Motorsports Park,United States,2.51,permanent,1999
+824,Motor Mile Speedway,United States,2.45,oval,1999
+825,MotorSport Ranch,United States,4.99,permanent,1999
+826,New Smyrna Speedway,United States,0.80,oval,1999
+827,Owara Circuit,Japan,5.97,permanent,1999
+828,Ribeirão Preto Street Circuit,Brazil,5.21,street,1999
+829,Sanair Super Speedway,Canada,2.49,oval,1999
+830,Albany-Saratoga Speedway,United States,1.49,oval,2000
+831,Alemannenring,Germany,2.19,street,2000
+832,Anglesey Circuit,United Kingdom,4.32,permanent,2000
+833,Autódromo Roberto Mouras,Argentina,5.46,permanent,2000
+834,Brescia Circuit,Italy,4.38,street,2000
+835,Canberra Street Circuit,Australia,3.42,street,2000
+836,Circuit Trois-Rivières,Canada,5.12,permanent,2000
+837,Circuit de Lignières,Switzerland,4.95,permanent,2000
+838,Dunedin Street Circuit,New Zealand,5.28,street,2000
+839,Gravity Park USA,United States,4.27,permanent,2000
+840,Kingston Speedway,Canada,2.48,oval,2000
+841,Midland Circuit Lelystad,Netherlands,4.73,permanent,2000
+842,Montgomery Motor Speedway,United States,2.55,oval,2000
+843,Palanga circuit,Lithuania,1.00,street,2000
+844,Rufforth Circuit,United Kingdom,3.28,permanent,2000
+845,South Boston Speedway,United States,0.64,oval,2000
+846,South Sound Speedway,United States,2.00,oval,2000
+847,Wakefield Park,Australia,5.36,permanent,2000
+848,Alastaro Circuit,Finland,2.97,permanent,2001
+849,Autódromo Aldea Romana de Bahía Blanca,Argentina,4.05,permanent,2001
+850,Autódromo Yucatán,Mexico,4.82,permanent,2001
+851,Circuit des Remparts,France,4.68,street,2001
+852,Drum Raceway,United States,5.02,permanent,2001
+853,Islip Speedway,United States,1.51,oval,2001
+854,Kari Motor Speedway,India,3.61,permanent,2001
+855,Mid-America Motorplex,United States,5.13,permanent,2001
+856,Motorcenter Norway,Norway,5.13,permanent,2001
+857,Stateline Speedway,United States,1.47,oval,2001
+858,Thunderhill Raceway Park,United States,3.92,permanent,2001
+859,Wall Township Speedway,United States,0.84,oval,2001
+860,Adria International Raceway,Italy,3.75,permanent,2002
+861,Atlanta Motorsports Park,United States,4.06,permanent,2002
+862,Autódromo Pedro Cofiño,Guatemala,2.45,permanent,2002
+863,Bedford Autodrome,United Kingdom,4.10,permanent,2002
+864,Belo Horizonte Circuit,Brazil,3.21,street,2002
+865,Flamboro Speedway,Canada,2.45,oval,2002
+866,Grandview Speedway,United States,1.52,oval,2002
+867,Gávea Circuit,Brazil,3.69,permanent,2002
+868,Lydden Hill Race Circuit,United Kingdom,4.87,permanent,2002
+869,Martinsville Speedway,United States,0.85,oval,2002
+870,Michigan State Fairgrounds Speedway,United States,0.87,oval,2002
+871,Mine Circuit,Japan,3.12,permanent,2002
+872,Nazareth Speedway,United States,1.46,oval,2002
+873,Pista Automóvel de Montalegre,Portugal,4.83,permanent,2002
+874,Shakespeare County Raceway,United Kingdom,3.16,permanent,2002
+875,Autódromo Enrique Freile,Argentina,5.36,permanent,2003
+876,Autódromo Ricardo Mejía,Colombia,2.57,permanent,2003
+877,Baskerville Raceway,Australia,4.81,permanent,2003
+878,Hagerstown Speedway,United States,0.85,oval,2003
+879,Kukuru Yomitan Circuit,Japan,4.54,permanent,2003
+880,Magyar Nemzetkozi Motodrome,Hungary,6.72,permanent,2003
+881,Onslow Speedway,Canada,3.92,oval,2003
+882,Orange County Fair Speedway,United States,4.06,oval,2003
+883,Padborg Park,Denmark,6.63,permanent,2003
+884,River Cities Speedway,United States,2.47,oval,2003
+885,Roebling Road Raceway,United States,5.39,permanent,2003
+886,Asan Circuit,Japan,5.80,permanent,2004
+887,Autódromo Moisés Solana,Mexico,3.86,permanent,2004
+888,Autódromo Municipal Juan Manuel Fangio,Argentina,4.80,permanent,2004
+889,Beaver Dam Raceway,United States,4.50,permanent,2004
+890,Canfield Speedway,United States,1.50,oval,2004
+891,Catalina Park,Australia,3.86,permanent,2004
+892,Cuba Lake Raceway,United States,3.70,permanent,2004
+893,Kinnekulle Ring,Sweden,5.06,permanent,2004
+894,Lakeside International Raceway,Australia,6.01,permanent,2004
+895,Memphis International Raceway,United States,3.73,permanent,2004
+896,Nikko Circuit,Japan,2.82,permanent,2004
+897,Parcmotor Castellolí,Spain,3.13,permanent,2004
+898,RAD Torque Raceway,Canada,4.12,permanent,2004
+899,Spa Nishiura Motor Park,Japan,3.69,permanent,2004
+900,Sunny South Raceway,United States,5.71,permanent,2004
+901,Transilvania Motor Ring,Romania,2.69,permanent,2004
+902,Tsukuba Circuit,Japan,3.95,permanent,2004
+903,West Palm Beach street circuit,United States,2.69,street,2004
+904,Wunstorf Air Base Circuit,Germany,1.96,street,2004
+905,Autopolis,Japan,3.59,permanent,2005
+906,Autódromo Guadalajara,Mexico,4.22,permanent,2005
+907,Autódromo Provincia de La Pampa,Argentina,4.93,permanent,2005
+908,Autódromo de León,Mexico,3.74,permanent,2005
+909,Beijing International Street Circuit,China,2.37,street,2005
+910,Carmona Racing Circuit,Philippines,3.59,permanent,2005
+911,Circuito Urbano Bilbao,Spain,3.33,street,2005
+912,Driveway Austin,United States,2.59,permanent,2005
+913,Edmonton City Centre Airport circuit,Canada,3.37,street,2005
+914,MSR Houston,United States,3.83,permanent,2005
+915,Montenero Circuit,Italy,3.09,permanent,2005
+916,Moscow Street Circuit,Russia,5.21,street,2005
+917,MotorLand Aragón,Spain,5.34,permanent,2005
+918,Oval Raceway,United Kingdom,4.97,permanent,2005
+919,Saugus Speedway,United States,0.86,oval,2005
+920,Unity Raceway,United States,4.33,permanent,2005
+921,Utah Motorsports Campus,United States,4.64,permanent,2005
+922,Athens Circuit,Greece,2.10,permanent,2006
+923,Autodromo di Franciacorta,Italy,6.04,permanent,2006
+924,Autódromo Parque Ciudad de Río Cuarto,Argentina,5.99,permanent,2006
+925,Billown Circuit,Isle of Man,4.72,street,2006
+926,Canadian Motor Speedway,Canada,0.85,oval,2006
+927,City Kart,Japan,4.01,permanent,2006
+928,Durban street circuit,South Africa,2.58,street,2006
+929,Monteblanco Circuit,Spain,4.34,permanent,2006
+930,Off Road Park Hiraodai,Japan,4.58,permanent,2006
+931,Ring Knutstorp,Sweden,3.20,permanent,2006
+932,Wisconsin International Raceway,United States,4.69,permanent,2006
+933,Amaroo Park,Australia,4.21,permanent,2007
+934,Autodromo di Modena,Italy,2.77,permanent,2007
+935,Autódromo Termas de Río Hondo,Argentina,4.80,permanent,2007
+936,Bucharest Ring,Romania,4.02,street,2007
+937,Circuit d'Alcarràs,Spain,3.74,permanent,2007
+938,Columbia Speedway,United States,0.83,oval,2007
+939,Dezzi Raceway,South Africa,4.31,permanent,2007
+940,Eagles Canyon Raceway,United States,4.43,permanent,2007
+941,Langley Speedway,Canada,1.49,oval,2007
+942,Marienberger Dreieck,Germany,5.13,permanent,2007
+943,Mount Lawn Speedway,United States,0.85,oval,2007
+944,Ona Speedway,United States,4.10,oval,2007
+945,Polokwane Oval Raceway,South Africa,4.08,permanent,2007
+946,Virginia Motor Speedway,United States,2.00,oval,2007
+947,Ace Speedway,United States,3.97,oval,2008
+948,Aldo Scribante Circuit,South Africa,5.18,permanent,2008
+949,Autodrom Saint Petersburg,Russia,3.07,permanent,2008
+950,Boyd's Speedway,United States,1.02,oval,2008
+951,Bruce McLaren Motorsport Park,New Zealand,4.31,permanent,2008
+952,Cajon Speedway,United States,2.55,oval,2008
+953,Centro Sperimentale Balocco,Italy,4.22,permanent,2008
+954,Estering,Germany,5.21,permanent,2008
+955,Gresham Motorsports Park,United States,3.97,permanent,2008
+956,Harmony Speedway,United States,1.95,oval,2008
+957,Harris Hill Raceway,United States,2.93,permanent,2008
+958,Illiana Motor Speedway,United States,2.05,oval,2008
+959,Lee USA Speedway,United States,1.01,oval,2008
+960,Marlboro Motor Raceway,United States,4.76,permanent,2008
+961,Moscow Raceway,Russia,2.28,permanent,2008
+962,Parque Tangamanga,Mexico,6.60,permanent,2008
+963,Ruapuna Speedway,New Zealand,0.86,oval,2008
+964,Tyler County Speedway,United States,1.46,oval,2008
+965,Automotodróm Slovakia Ring,Slovakia,5.71,permanent,2009
+966,Chiang Rai Circuit Raceway Mae Lao,Thailand,6.17,permanent,2009
+967,Circuito Ayrton Senna,Brazil,4.43,street,2009
+968,Drivecenter Arena,Sweden,3.60,permanent,2009
+969,Homebush Street Circuit,Australia,2.81,street,2009
+970,Melaka International Motorsport Circuit,Malaysia,4.36,permanent,2009
+971,Oxford Plains Speedway,United States,0.84,oval,2009
+972,Paseo Los Próceres street circuit,Venezuela,4.33,permanent,2009
+973,Placerville Speedway,United States,3.98,oval,2009
+974,Sodegaura Forest Raceway,Japan,3.22,permanent,2009
+975,St John's Short Course,Isle of Man,4.44,permanent,2009
+976,Utica-Rome Speedway,United States,1.49,oval,2009
+977,Autódromo Ciudad de Dolores,Argentina,4.70,permanent,2010
+978,Autódromo Internacional de Santa Cruz do Sul,Brazil,4.40,permanent,2010
+979,Circuito de Navarra,Spain,4.67,permanent,2010
+980,Crown Point Road Race Circuit,United States,1.83,street,2010
+981,Sanya Street Circuit,China,3.79,street,2010
+982,Smolensk Ring,Russia,3.17,permanent,2010
+983,Tours Speedway,France,3.56,permanent,2010
+984,White Mountain Motorsports Park,United States,3.38,permanent,2010
+985,Xiamen International Circuit,China,4.33,permanent,2010
+986,Autódromo Ciudad de Concordia,Argentina,4.44,permanent,2011
+987,Autódromo Juan Oria,Argentina,3.05,permanent,2011
+988,Bedford Speedway,United States,1.50,oval,2011
+989,Beverly Hills Speedway,United States,2.42,oval,2011
+990,Bonanza International Circuit,Thailand,5.49,permanent,2011
+991,Crandon International Off-Road Raceway,United States,4.46,permanent,2011
+992,Cremona Circuit,Italy,4.25,permanent,2011
+993,Guangdong International Circuit,China,4.05,permanent,2011
+994,Holsted Speedway Center,Denmark,4.39,permanent,2011
+995,Kazan Ring,Russia,3.43,permanent,2011
+996,Monticello Motor Club’s racetrack,United States,5.79,permanent,2011
+997,Nakayama Circuit,Japan,6.15,permanent,2011
+998,Perth Park,Australia,4.95,street,2011
+999,Port Royal Speedway,United States,0.84,oval,2011
+1000,Spencer Speedway,United States,0.85,oval,2011
+1001,Vålerbanen,Norway,4.74,permanent,2011
+1002,Autódromo Velo Città,Brazil,3.49,permanent,2012
+1003,Beijing E-Town Street Circuit,China,2.96,street,2012
+1004,Blackhawk Farms Raceway,United States,3.88,permanent,2012
+1005,Circuito Internacional de Vila Real,Portugal,2.26,street,2012
+1006,Ecce Homo,Czech Republic,4.59,permanent,2012
+1007,Las Paredes,Argentina,3.32,permanent,2012
+1008,Ljungbyheds Motorbana,Sweden,4.21,permanent,2012
+1009,Motorpark Romania,Romania,3.75,permanent,2012
+1010,Ohsweken Speedway,Canada,0.84,oval,2012
+1011,Taebaek Racing Park,South Korea,4.10,permanent,2012
+1012,Trióvalo Bernardo Obregón,Mexico,5.93,permanent,2012
+1013,Aspern Airfield Circuit,Austria,3.91,permanent,2013
+1014,Autodrome Saint-Eustache,Canada,2.89,permanent,2013
+1015,Autódromo Internacional de Curitiba,Brazil,2.29,permanent,2013
+1016,Bath Speedway,United States,2.56,oval,2013
+1017,Beech Ridge Motor Speedway,United States,0.87,oval,2013
+1018,Canaan Fair Speedway,United States,0.85,oval,2013
+1019,Chang International Circuit,Thailand,4.55,permanent,2013
+1020,Emo Speedway,Canada,3.93,oval,2013
+1021,Inje Speedium,South Korea,3.60,permanent,2013
+1022,Luttenbergring,Netherlands,2.00,street,2013
+1023,Oulu Zone,Finland,3.18,permanent,2013
+1024,Angelica Raceway,United States,6.77,permanent,2014
+1025,Chengdu Tianfu International Circuit,China,5.27,permanent,2014
+1026,Nigel Mansell turn,Mexico,4.55,permanent,2014
+1027,Qinhuangdao Shougang Motorsport Valley,China,4.11,permanent,2014
+1028,Rosebank Speedway,New Zealand,4.07,oval,2014
+1029,Roy Hesketh Circuit,South Africa,3.43,permanent,2014
+1030,Sokol International Racetrack,Kazakhstan,5.10,permanent,2014
+1031,The Magarigawa Club,Japan,3.50,permanent,2014
+1032,Autódromo Ciudad de Paraná,Argentina,3.85,permanent,2015
+1033,Autódromo de Deodoro,Brazil,4.49,permanent,2015
+1034,Good Time Park,United States,6.37,permanent,2015
+1035,Inagawa Circuit,Japan,1.02,permanent,2015
+1036,Jyllands-Ringen,Denmark,2.30,permanent,2015
+1037,Kuala Lumpur Street Circuit,Malaysia,1.89,street,2015
+1038,Lanier National Speedway,United States,2.03,oval,2015
+1039,Puerto Madero Street Circuit,Argentina,3.82,street,2015
+1040,Sugo snowmobile land,Japan,4.05,permanent,2015
+1041,Thunder Mountain Motor Speedway,United States,0.83,oval,2015
+1042,Óvalo Aguascalientes México,Mexico,4.95,permanent,2015
+1043,Area 27 Motorsports Park,Canada,5.80,permanent,2016
+1044,Asheville-Weaverville Speedway,United States,2.36,oval,2016
+1045,Berlin Raceway,United States,0.70,permanent,2016
+1046,Boreham Circuit,United Kingdom,3.76,permanent,2016
+1047,Circuito San Juan Villicum,Argentina,4.74,permanent,2016
+1048,Halifax Street Circuit,Canada,2.29,street,2016
+1049,La Crosse Fairgrounds Speedway,United States,2.44,oval,2016
+1050,Oliver's Mount racing circuit,United Kingdom,2.16,street,2016
+1051,Tar Heel Speedway,United States,4.07,oval,2016
+1052,Aspar Circuit,Spain,4.96,permanent,2017
+1053,Auering (Haßbergen),Germany,6.67,permanent,2017
+1054,Jeddah Raceway,Saudi Arabia,5.00,permanent,2017
+1055,Kymi Ring,Finland,4.60,permanent,2017
+1056,Norisring,Germany,3.02,street,2017
+1057,Ocean Speedway,United States,4.09,oval,2017
+1058,Speedway Hiroshima Circuit,Japan,5.12,permanent,2017
+1059,Steel Ring,Czech Republic,4.41,permanent,2017
+1060,Tor Łódź,Poland,4.36,permanent,2017
+1061,Autódromo Juan María Traverso,Argentina,4.16,permanent,2018
+1062,Autódromo de Concepción del Uruguay,Argentina,4.24,permanent,2018
+1063,Eldora Speedway,United States,0.80,oval,2018
+1064,Kartodrom Slovenja vas,Slovenia,4.45,permanent,2018
+1065,Mongol63 Raceway,Mongolia,3.94,permanent,2018
+1066,Rockingham Motor Speedway,United Kingdom,4.18,permanent,2018
+1067,Sde Yaman Race Track,Israel,6.54,permanent,2018
+1068,Autódromo Parque Provincia del Neuquén,Argentina,3.08,permanent,2019
+1069,Circuito di Cagliari,Italy,5.41,street,2019
+1070,Hanoi Street Circuit,Vietnam,3.20,street,2019
+1071,Heidelberg Raceway,United States,3.92,permanent,2019
+1072,Igora Drive,Russia,2.69,permanent,2019
+1073,LaSalle Speedway,United States,4.07,oval,2019
+1074,Mandalika International Street Circuit,Indonesia,5.67,permanent,2019
+1075,Occoneechee Speedway,United States,2.41,oval,2019
+1076,Parque O'Higgins Circuit,Chile,2.06,street,2019
+1077,Tri-City Raceway,United States,4.40,permanent,2019
+1078,Waterford Raceway,Ireland,2.60,permanent,2019
+1079,Adams County Speedway,United States,0.99,oval,2020
+1080,Autódromo Martín Miguel de Güemes,Argentina,3.88,permanent,2020
+1081,Barrie Speedway,Canada,2.06,oval,2020
+1082,Collie Motorplex,Australia,3.39,permanent,2020
+1083,Fundidora Park raceway,Mexico,3.86,permanent,2020
+1084,Hyderabad Street Circuit,India,3.44,street,2020
+1085,Loxford Park Speedway,Australia,1.47,oval,2020
+1086,Mobile International Speedway,United States,0.84,oval,2020
+1087,Onneyu Onsen Takinoyu Snowmobile Land,Japan,5.51,permanent,2020
+1088,Orange County Speedway,United States,0.84,oval,2020
+1089,Racing Center Greinbach,Austria,2.98,permanent,2020
+1090,Tandragee 100,United Kingdom,3.05,street,2020
+1091,Union County Speedway,United States,1.95,oval,2020
+1092,Volusia Speedway Park,United States,0.84,oval,2020
+1093,Atlanta Motor Speedway,United States,2.41,oval,2021
+1094,Autódromo General San Martín,Argentina,5.05,permanent,2021
+1095,Dover Motor Speedway,United States,2.00,oval,2021
+1096,ExCeL Street Circuit,United Kingdom,2.40,street,2021
+1097,Nashville Street Circuit,United States,3.49,street,2021
+1098,South Georgia Motorsports Park,United States,5.14,permanent,2021
+1099,Arroyo Seco Raceway,United States,5.06,permanent,2022
+1100,Lime Rock Park,United States,3.78,permanent,2022
+1101,Seoul Street Circuit,South Korea,2.62,street,2022
+1102,Balaton Park Circuit,Hungary,3.60,permanent,2023
+1103,A1 Motor Park,Bulgaria,3.91,permanent,2026
+1104,Penbay International Circuit,Taiwan,3.95,permanent,2026

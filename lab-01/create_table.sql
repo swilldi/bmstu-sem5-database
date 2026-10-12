@@ -1,58 +1,58 @@
-CREATE TABLE IF NOT EXISTS company (
-    id serial,
+CREATE TABLE IF NOT EXISTS driver (
+    driver_id serial,
+    full_name text,
+    birth_date date,
+    birth_city text,
+    country text,
+    license_class text,
+    debut_year smallint
+);
+
+CREATE TABLE IF NOT EXISTS car (
+    car_id serial,
+    model text,
+    season_year smallint,
+    car_class text,
+    horsepower int,
+    weight_kg numeric(6, 2),
+    team_id int
+);
+
+CREATE TABLE IF NOT EXISTS team (
+    team_id serial,
     name text,
     country text,
-    city text,
-    founded_year int
+    founded_year smallint,
+    is_active boolean,
+    team_parent_id int
 );
 
-CREATE TABLE IF NOT EXISTS game (
-    id serial,
-    title text,
-    users_score int,
-    age_rating int,
-    first_release_date date,
-    game_engine_id int
-
-);
-
-CREATE TABLE IF NOT EXISTS platform (
-    id serial,
+CREATE TABLE IF NOT EXISTS track (
+    track_id serial,
     name text,
-    short_name text,
-    type text,
-    generation int,
-    release_date date,
-    company_id int
+    country text,
+    length_km numeric(6, 2), 
+    track_type text,
+    opened_year smallint
 );
 
-CREATE TABLE IF NOT EXISTS genre (
-    id serial,
-    name text,
-    parent_id int
+CREATE TABLE IF NOT EXISTS race_entry(
+
+    driver_id int,
+    car_id int,
+    track_id int, 
+    status text,
+    grid_position smallint,
+    finish_position smallint,
+    best_lap interval,
+    total_time interval,
+    race_date date,
+    laps_completed smallint
 );
 
-CREATE TABLE IF NOT EXISTS game_engine (
-    id serial,
-    name text,
-    version text,
-    company_id int,
-    release_date date,
-    is_active boolean
+CREATE TABLE IF NOT EXISTS contract (
+    driver_id int,
+    team_id int,
+    start_date date,
+    end_date date
 );
-
-CREATE TABLE IF NOT EXISTS game_genre (
-    game_id int,
-    genre_id int
-);
-
-CREATE TABLE IF NOT EXISTS game_release (
-    game_id int,
-    platform_id int,
-    company_id int,
-    release_date date,
-    region text,
-    role text
-);
-
-
