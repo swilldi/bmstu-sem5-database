@@ -1,6 +1,6 @@
 services:
   db:
-    image: postgres:17
+    build: .
     container_name: study-pg
     working_dir: /workspace
     environment:
