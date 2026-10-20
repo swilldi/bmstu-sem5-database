@@ -1,28 +1,9 @@
--- Задание 3. Табличная функция team_seasons
---
--- История команды по сезонам. Сезон — это год race_date, а заезды команды —
--- заезды на её машинах (car.team_id).
---
--- - races — число заездов, wins — побед, podiums — подиумов.
--- - dnf_rate — доля dnf + dsq от стартовавших (dns не считаются),
---   с округлением до 3 знаков. Если стартов не было, NULL.
--- - top_driver — пилот команды с максимумом подиумов в этом сезоне,
---   при равенстве берётся меньший driver_id. Если подиумов не было, NULL.
--- - Если команды нет, ошибка "team <id> not found". Если p_team_id IS NULL,
---   пустой результат.
--- - Строки возвращаются через yield, отсортированные по season.
---
--- Проверка:
--- 1. Сумма races по всем сезонам равна count(*) заездов на машинах команды.
--- 2. Ошибка на несуществующем team_id.
--- 3. p_team_id IS NULL даёт пустой результат.
+-- статистика команды по сезонам
 
 create or replace function team_seasons(p_team_id int)
 returns table(season int, races int, wins int, podiums int, dnf_rate numeric, top_driver text)
 language plpython3u
 as $$
-    from decimal import Decimal, ROUND_HALF_UP
-
     if p_team_id is None:
         return
 
@@ -73,12 +54,7 @@ as $$
         sd = plpy.execute(plans["season_data"], [season, p_team_id])[0]
         top = plpy.execute(plans["top_driver"], [season, p_team_id])
 
-        # round() в Python округляет половинки к чётному (0.3125 -> 0.312),
-        # а round() в PostgreSQL — от нуля (0.313), поэтому Decimal с ROUND_HALF_UP
-        dnf_rate = None
-        if sd["started"] > 0:
-            dnf_rate = (Decimal(sd["dnf_dsq"]) / Decimal(sd["started"])).quantize(
-                Decimal("0.001"), rounding=ROUND_HALF_UP)
+        dnf_rate = round(sd["dnf_dsq"] / sd["started"], 3) if sd["started"] > 0 else None
 
         yield {
             "season": season,
