@@ -37,3 +37,9 @@ $$;
 create or replace trigger trg_race_entry_contract
 before insert or update on race_entry
 for each row execute function race_entry_contract_check();
+
+
+begin;
+insert into race_entry (driver_id, car_id, track_id, status, grid_position, race_date, laps_completed)
+values (801, 743, 56, 'dns', 1, '2026-09-14', 0);
+rollback;
