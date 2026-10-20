@@ -1,5 +1,4 @@
 -- самая длинная серия подиумов пилота подряд
-
 drop type if exists podium_streak cascade;
 create type podium_streak as (
     len int,
