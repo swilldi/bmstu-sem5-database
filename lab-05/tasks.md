@@ -19,9 +19,22 @@ PGPASSWORD=postgres psql -h localhost -p 5433 -U postgres -d study -f lab05.sql
 
 ## 3. Атрибут jsonb
 
-- [ ] `race_entry.pit_stops` + заполнение (взять из `pit_stops.sql`)
+- [ ] `race_entry.pit_stops` из `data/pit_stops.json` (`UPDATE ... FROM`) + пара ручных `UPDATE` с литералом
+- [ ] `car.specs` из `data/car_specs.json` (`UPDATE ... FROM`)
 
-## 4. Работа с документом (на `pit_stops`)
+## 4. Работа с документом
+
+Для сдачи хватит одного запроса на подпункт: на `specs` или на `pit_stops`, как удобнее.
+
+### На `car.specs`
+
+- [ ] 4.1. Фрагмент: объект двигателя (`specs -> 'engine'`), список спонсоров
+- [ ] 4.2. Значение: объём двигателя числом, `ers_kw` гибридов (вложенный путь `#>>`)
+- [ ] 4.3. Существование: машины с ключом `aero` / с `drs` / без `sponsors` (`?`, `@>`, `@?`); разница «ключа `sponsors` нет» и «`sponsors` пустой»
+- [ ] 4.4. Изменение: отключить `turbo` (`jsonb_set`), добавить спонсора в массив, удалить ключ `homologated` (`-`)
+- [ ] 4.5. Разбиение: спонсоры машин в строки «машина — спонсор — доля» (`jsonb_array_elements` или `JSON_TABLE`), ключи двигателя в строки (`jsonb_each`)
+
+### На `race_entry.pit_stops`
 
 - [ ] 4.1. Фрагмент: первый пит-стоп целиком (`pit_stops -> 0`)
 - [ ] 4.2. Значение: длительность первого стопа числом
