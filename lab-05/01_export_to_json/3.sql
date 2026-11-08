@@ -30,5 +30,5 @@ select jsonb_pretty(jsonb_agg(
         'results', race_result(re.track_id, re.race_date)
     )
 ))
-from race_entry re
-join track t using (track_id)
+from (select distinct track_id, race_date from race_entry) re
+join track t using (track_id);
