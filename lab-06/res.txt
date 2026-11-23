@@ -1,0 +1,22 @@
+    table_name    | relkind 
+------------------+---------
+ car              | r
+ contract         | r
+ driver           | r
+ race_entry       | r
+ race_entry_audit | r
+ team             | r
+ track            | r
+(7 rows)
+
+ oid  
+------
+ 2200
+ 2200
+ 2200
+ 2200
+ 2200
+ 2200
+ 2200
+(7 rows)
+

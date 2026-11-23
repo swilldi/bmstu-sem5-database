@@ -1,0 +1,5 @@
+ pg_get_function_arguments 
+---------------------------
+ place integer
+(1 row)
+
